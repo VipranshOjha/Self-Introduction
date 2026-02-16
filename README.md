@@ -2,7 +2,12 @@
 
 This repository contains my self-introduction video submission for the PLA1006 course.
 
-# About Me
+## Video Submission
+
+[Watch the Self-Introduction Video](./Self-Intro.mp4)
+
+
+## About Me
 
 Hi, I’m Vipransh Ojha, a third-year BTech Computer Science student specializing in Artificial Intelligence and Machine Learning at VIT Bhopal University.
 
